@@ -1,0 +1,5 @@
+#!/bin/bash
+set -euo pipefail
+
+# Validate Cue
+echo "--- :kubernetes: Validate Cue Templates"

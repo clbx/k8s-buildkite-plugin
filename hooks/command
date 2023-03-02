@@ -1,0 +1,8 @@
+#!/bin/bash
+set -euo pipefail
+
+# Evaluate Cue
+echo "--- :kubernetes: Evaluate Cue Templates"
+
+# Apply Evaluated Manifests
+echo "--- :kubernetes: Create Job"

@@ -1,0 +1,9 @@
+name: k8s
+description: Run Buildkite Jobs in Kubernetes
+author: https://github.com/clbx
+requirements:
+- cue
+configuration:
+  properties:
+    template:
+      type: string

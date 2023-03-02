@@ -3,3 +3,6 @@ steps:
   label: "test"
   command:
   - echo "hello world"
+  plugins:
+  - clbx/k8s
+

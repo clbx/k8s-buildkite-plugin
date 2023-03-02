@@ -1,0 +1,5 @@
+steps:
+- key: test
+  label: "test"
+  command:
+  - echo "hello world"
